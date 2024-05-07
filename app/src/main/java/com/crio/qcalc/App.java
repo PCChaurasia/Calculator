@@ -18,7 +18,6 @@ public class App {
 
         calc.printResult();
 
-
     }
 
 
